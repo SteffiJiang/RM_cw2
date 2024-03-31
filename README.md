@@ -1,6 +1,6 @@
 # Visualisation: The impact that diet and food consumption has on the environment
 
-All the codes are in main.js file
+All the codes are in **main.js** file
 
 https://observablehq.com/d/04c1bfcd3a4f427e@404
 
