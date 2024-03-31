@@ -1,0 +1,14 @@
+{
+  "name": "04c1bfcd3a4f427e",
+  "main": "04c1bfcd3a4f427e@404.js",
+  "version": "404.0.0",
+  "homepage": "https://observablehq.com/d/04c1bfcd3a4f427e",
+  "author": {
+    "name": "Steffi Jiang's Workspace",
+    "url": "https://observablehq.com/@steffi-jiang-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
